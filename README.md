@@ -1,2 +1,2 @@
 # Defender
-game made in pygame
+basic game made in pygame

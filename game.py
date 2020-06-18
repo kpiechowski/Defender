@@ -15,7 +15,7 @@ class Game:
         self.window_w = 1100
         self.window_h = 700
         self.wave = 0
-        self.player_gold = 0
+        self.player_gold = 100
         self.bg = pygame.image.load("img/bg.png")
         self.bg = pygame.transform.scale(self.bg, (self.window_w, self.window_h))
         self.run = True

@@ -1,2 +1,2 @@
 # CastleDefender
-basic game made in pygame
+Tower defense shooter game made in pygame
